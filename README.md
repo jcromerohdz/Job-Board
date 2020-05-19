@@ -1,4 +1,4 @@
-# Django Project Template
+# Django Project: Jobs Board
 
 The clean, fast and right way to start a new Django `2.2.12` powered website.
 
